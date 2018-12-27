@@ -1,9 +1,1 @@
-git testing!
-add one line tyh
-second time.
-
-
-github testing.
-
-
-github pull testing
+this project is a copy of D:\yhtian\18Fall-Courses\CMSC5724\Perceptron-tian
